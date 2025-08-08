@@ -13,7 +13,7 @@ import {
 } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAjZn_WzCRMfUwCR6L-7bwHsch_ZNq8ljA",
+  apiKey: "",
   authDomain: "todo-auth-c9313.firebaseapp.com",
   projectId: "todo-auth-c9313",
   storageBucket: "todo-auth-c9313.firebasestorage.app",
@@ -36,3 +36,4 @@ export {
   orderBy,
   query
 };
+
